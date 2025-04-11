@@ -1,5 +1,5 @@
-from CarRentalApp.CarRental import CarRental
-from CarRentalApp.Customer import Customer
+from CarRental import CarRental
+from Customer import Customer
 
 
 def display_menu():
